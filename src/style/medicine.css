@@ -1,0 +1,43 @@
+.container {
+    width: 100%;
+    margin-left: 110px;
+    padding-top: 80px;
+}
+
+
+.serach-medicine {
+    width: 700px;
+    position: fixed;
+    right: 210px;
+    top: 80px;
+}
+
+.glass {
+    padding: 0 15px;
+    background: #CAE5E8;
+    margin-left: 5px;
+}
+
+.glass:hover {
+    cursor: pointer;
+    background: #99D1D3;
+}
+
+.icon-delete-medicine {
+    position: absolute;
+    right: 43px;
+    top: 15px;
+    z-index: 1;
+    padding: 0 10px;
+    border: 1px solid red;
+    font-size: 20px;
+    font-weight: bold;
+    background: white;
+    color: red;
+}
+
+.icon-delete-medicine:hover {
+    color: rgb(92, 83, 83);
+    background: rgb(218, 192, 192);
+    cursor: pointer;
+}

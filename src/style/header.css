@@ -1,0 +1,57 @@
+#header {
+    background: #f8f9fa;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+}
+
+.brand-left {
+    background: url(../assets/image/bookingcare.svg) center center no-repeat;
+    height: 35px;
+    width: 18%;
+    padding: 0;
+}
+
+.icon {
+    padding-left: 10px;
+    font-size: 30px;
+}
+
+.icon-user {
+    margin-left: 30px !important;
+    border: 1px solid black !important;
+    padding: 1px !important;
+    border-radius: 3px !important;
+    font-size: 25px !important;
+}
+
+.icon-user:hover {
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+
+.nav-link {
+    color: black;
+}
+
+.icon-dropdown:hover{
+    opacity: 0.9;
+    cursor: pointer;
+    color:red;
+}
+.button-link {
+    color: white;
+    border: 1px solid #00B2BF;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 10px;
+    background: #00B2BF;
+}
+
+.button-link:hover{
+    text-decoration: none;
+    opacity: 0.9;
+    color: #f8f9fa;
+
+}

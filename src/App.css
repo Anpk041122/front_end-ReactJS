@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.cover-area {
+  width: 1170px;
+  margin-left: 158px !important ;
+}
+

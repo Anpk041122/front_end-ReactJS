@@ -1,0 +1,32 @@
+.title-obj {
+    font-size: 16px;
+}
+
+.btn-obj {
+    width: 100px;
+    background: #C6E2FF;
+    color:black;
+    padding: 10px 55px;
+    border-radius: 10px;
+}
+
+.btn-obj:hover {
+    text-decoration: none;
+    background: #B9D3EE;
+    color:#363636;
+}
+
+#card-obj {
+    width: 240px;
+    height:420px;
+    border-radius: 10px;
+}
+
+#img-obj {
+   padding: 10px;
+}
+
+#card-obj:hover {
+    cursor: pointer;
+
+}
