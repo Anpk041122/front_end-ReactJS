@@ -1,0 +1,11 @@
+#register {
+    padding-top: 144px;
+    height: 1000px;
+}
+
+#register-form {
+    border: 1px solid black;
+    margin-left: 150px;
+    width: 80%;
+    padding: 40px;
+}

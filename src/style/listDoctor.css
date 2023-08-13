@@ -1,0 +1,10 @@
+#container-list-doctor {
+    height: 800px;
+    width: 90%;
+    padding-top: 100px;
+}
+
+#table-list-doctor {
+    border: 1px solid #fff;
+    margin-left: 100px;
+}

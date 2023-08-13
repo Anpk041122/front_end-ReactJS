@@ -1,0 +1,20 @@
+#add-medicine-container {
+    width: 90%;
+    height: 1200px;
+    padding: 100px 0 100px 0!important;
+}
+
+#form-add-medicine {
+    border: 1px solid black;
+    border-radius: 30px;
+    height: 500px;
+    margin-left: 150px;
+    padding: 30px;
+}
+
+#header-add-medicine {
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    color:cadetblue;
+}

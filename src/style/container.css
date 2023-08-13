@@ -1,0 +1,180 @@
+.cont {
+    padding-top: 72px;
+}
+.bg-image {
+    background: url(../assets/image/bookingcare-cover-4.jpg) no-repeat;
+    background-position: fixed;
+    background-position-y: -150px;
+    background-position-x: -300px;
+    height: 620px;
+    width: 100%;
+    background-color: #333;
+}
+
+.bg-image > .content-bg {
+    color: #ffffff;
+    text-transform: uppercase;
+    text-shadow: 1.5px 1.5px 1.5px #111111;
+}
+
+.content-bg {
+    text-align: center;
+    font-size: 10px;
+    position: relative;
+    top: 85px;
+}
+
+.containers {
+    display: flex;
+}
+
+.pagi {
+    height: 157px;
+    border: 1px solid;
+    margin-left: 10px;
+    border: #ffffff;
+}
+
+ /* ------- stage 1 -------- */
+.owl-1-img  {
+    background: url(../assets/image/tai-mui-hong.jpg) center center no-repeat;
+}
+
+.owl-1-img-2 {
+    background: url(../assets/image/than-kinh.jpg)center center no-repeat;
+}
+
+
+.owl-1-img-3 {
+    background: url(../assets/image/tieu-hoa.jpg) center  center no-repeat;
+}
+
+
+.owl-1-img-4 {
+    background: url(../assets/image/tim-mach.jpg) center  center no-repeat;
+}
+/* ---------------------- end ----------------------- */
+
+ /* ------- stage 2 -------- */
+.owl-2-img  {
+    background: url(../assets/image/viet-duc.jpg) center center no-repeat;
+    background-size: 100%;
+    background-color: #ffffff;
+}
+
+.owl-2-img-2 {
+    background: url(../assets/image/cho-gay.jpg)center center no-repeat;
+    background-size: 100%;
+    background-color: #ffffff;
+}
+
+
+.owl-2-img-3 {
+    background: url(../assets/image/y-duoc.jpg) center  center no-repeat;
+    background-size: 100%;
+    background-color: #ffffff;
+}
+
+
+.owl-2-img-4 {
+    background: url(../assets/image/quan-doi.jpg) center center no-repeat;
+    background-size: 100%;
+    background-color: #ffffff;
+}
+/* ---------------------- end ----------------------- */
+
+/* ------- stage 3 -------- */
+.owl-3-img  {
+    background: url(../assets/image/bs-pham-chi-lang.jpg)  center center no-repeat;
+    background-size: 50%;
+}
+
+.owl-3-img-2 {
+    background: url(../assets/image/bs-nguyen-thi-hung.jpg)center center no-repeat;
+    background-size: 50%;
+}
+
+
+.owl-3-img-3 {
+    background: url(../assets/image/bs-ha-van-quyet.jpg) center  center no-repeat;
+    background-size: 50%;
+}
+
+
+.owl-3-img-4 {
+    background: url(../assets/image/bs-nguyen-trong-hung.jpg) center center no-repeat;
+    background-size: 50%;
+}
+/* ---------------------- end ----------------------- */
+
+
+/* ------- stage 4 -------- */
+.owl-4-img  {
+    background: url(../assets/image/nam-da-chan.png)  center center no-repeat;
+    background-size: 100%;
+}
+
+.owl-4-img-2 {
+    background: url(../assets/image/kham-mat.jpg)center center no-repeat;
+    background-size: 100%;
+}
+
+/* ---------------------- end ----------------------- */
+
+
+/* ------- stage 5 -------- */
+.owl-5-img  {
+    background: url(../assets/image/132939-10x-content-seo-y-te.png)  center center no-repeat;
+    background-size: 100%;
+}
+
+.owl-5-img-2 {
+    background: url(../assets/image/175657-cach-su-dung-google-keyword-planner.png)center center no-repeat;
+    background-size: 100%;
+}
+
+/* ---------------------- end ----------------------- */
+
+
+
+.owl-stage:nth-child(even) {
+    height: 350px;
+    padding: 20px;
+    border-style:  solid ;
+    border-width: 2px 0 0 2px;
+    border-color: rgb(239, 236, 236);
+    background: #ffffff;
+}
+
+
+.owl-stage:nth-child(odd) {
+    height: 329px;
+    padding: 20px;
+    border-style:  solid ;
+    border-width: 2px 0 0 2px;
+    border-color: silver;
+    background: #f5f5f5;
+}
+
+
+.intro {
+    font-size: 24px;
+    font-weight: 570;
+    padding: 15px 0 15px 0;
+}
+
+.descrip {
+    font-size: 15px;
+    color: #111111;
+    padding: 8px 0 0 0 ;
+    margin-left: 10px;
+    opacity: 0.8;
+}
+
+.sub-descrip {
+    font-size: 12px;
+    color: #111111;
+    margin-left: 10px;
+    opacity: 0.8;
+    text-align: center;
+}
